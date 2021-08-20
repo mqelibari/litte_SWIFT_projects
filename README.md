@@ -3,9 +3,8 @@
 The Solution to different Katas from codewars. https://www.codewars.com/dashboard
 
 
-| Kata               |  Solutions                                                                                  |
------------------------------------------------------------------------------------------
-
+| Kata|  Solutions |
+|-- ---|-------------|
 |Bouncing Ball            |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/BouncingBall.swift          |
 
 |Summerize                |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/Sumemerizer.swift           |
