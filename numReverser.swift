@@ -5,8 +5,6 @@
 //  Created by Fatmir Qel on 19.08.21.
 //
 
-import Foundation
-
 func dig(_ num: Int) -> [Int]{
     var num_to_reverse: Int = num
     var my_array: [Int] = []

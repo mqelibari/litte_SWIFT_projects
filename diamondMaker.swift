@@ -5,8 +5,6 @@
 //  Created by Fatmir Qel on 20.08.21.
 //
 
-import Foundation
-
 func diamond(_ diamond_size: Int) -> String? {
     var middle: Int = 0
     if(diamond_size % 2) == 0 || diamond_size < 0{

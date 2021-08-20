@@ -5,8 +5,6 @@
 //  Created by Fatmir Qel on 19.08.21.
 //
 
-import Foundation
-
 func bouncingBall(_ heigt_of_start: Double, _ bounce_factor: Double, _ window_of_observer: Double) -> Int{
     if bounce_factor >= 1 || bounce_factor <= 0{return -1}
     if window_of_observer >= heigt_of_start {return 0}

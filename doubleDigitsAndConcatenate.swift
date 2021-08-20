@@ -5,7 +5,6 @@
 //  Created by Fatmir Qel on 19.08.21.
 //
 
-import Foundation
 import Darwin
 
 func squareDigits(_ value: Int) -> Int{

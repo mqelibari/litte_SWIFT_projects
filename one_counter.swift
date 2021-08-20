@@ -5,8 +5,6 @@
 //  Created by Fatmir Qel on 19.08.21.
 //
 
-import Foundation
-
 
 func nbDig(_ number: Int, _ digit: Int) -> Int {
     var my_array: [Int] = []

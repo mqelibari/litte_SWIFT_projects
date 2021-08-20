@@ -5,8 +5,6 @@
 //  Created by Fatmir Qel on 19.08.21.
 //
 
-import Foundation
-
 func doubler(_ one_Array: Array <Int>) -> Array <Int>{
     var array_with_doubled_values: [Int] = []
     for element in one_Array{

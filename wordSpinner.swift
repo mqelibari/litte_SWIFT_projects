@@ -5,7 +5,6 @@
 //  Created by Fatmir Qel on 20.08.21.
 //
 
-import Foundation
 
 func spinWords(in sentence: String) -> String {
     var my_Array: [String] = []
