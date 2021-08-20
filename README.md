@@ -3,9 +3,9 @@
 The Solution to different Katas from codewars. https://www.codewars.com/dashboard
 
 
-| Kata|  Solutions |
+| Kata|  Description |
 |------|-------------|
-|Bouncing Ball            |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/BouncingBall.swift          |
+|[Bouncing Ball] (https://github.com/mqelibari/litte_SWIFT_projects/blob/main/BouncingBall.swift)           |  A ball is thrown out of the window of floor X. When it bounces on the floor and bounces back to Y% of its previous height. How often does floor Z, which is below floor X, see the ball bounce past it?   |
 |Summerize                |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/Sumemerizer.swift           |
 |Diamond Maker         |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/diamondMaker.swift        |
 |Double Array Values  |    https://github.com/mqelibari/litte_SWIFT_projects/blob/main/doubleArrayValues.swift  |
