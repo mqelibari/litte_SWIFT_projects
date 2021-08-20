@@ -8,16 +8,16 @@
 import Foundation
 
 func dig(_ num: Int) -> [Int]{
-    var new_num: Int = num
+    var num_to_reverse: Int = num
     var my_array: [Int] = []
 
     
     repeat{
         
-        my_array += [new_num % 10]
-        new_num /= 10
+        my_array += [num_to_reverse % 10]
+        num_to_reverse /= 10
 
-    }while new_num > 0
+    }while num_to_reverse > 0
     
     return my_array
 }

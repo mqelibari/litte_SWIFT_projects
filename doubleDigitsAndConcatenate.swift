@@ -24,17 +24,17 @@ func squareDigits(_ value: Int) -> Int{
     }
     print(my_array)
     var potenz = 0
-    var temo = 0
+    var temp = 0
     var first = true
     for element in my_array{
         var db = element
         repeat{
-            temo = db % 10
+            temp = db % 10
             db /= 10
             if !first{
-                end_result += (temo * (Int(pow(Double(10), Double(potenz)))))}
+                end_result += (temp * (Int(pow(Double(10), Double(potenz)))))}
             else{
-                end_result += temo
+                end_result += temp
                 first = false
             }
             potenz += 1

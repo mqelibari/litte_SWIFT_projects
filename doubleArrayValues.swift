@@ -7,10 +7,10 @@
 
 import Foundation
 
-func doubler(_ myArray: Array <Int>) -> Array <Int>{
-    var new_array: [Int] = []
-    for element in myArray{
-        new_array.append(element * 2)
+func doubler(_ one_Array: Array <Int>) -> Array <Int>{
+    var array_with_doubled_values: [Int] = []
+    for element in one_Array{
+        array_with_doubled_values.append(element * 2)
     }
-    return new_array
+    return array_with_doubled_values
 }

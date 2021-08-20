@@ -38,6 +38,4 @@ func levenshtein(word_a: String, word_b:String) -> Int{
 }
 
 
-print(levenshtein(word_a: "Planetarium", word_b: "Bank"))
-
 

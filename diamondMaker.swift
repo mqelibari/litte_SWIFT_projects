@@ -7,17 +7,17 @@
 
 import Foundation
 
-func diamond(_ size: Int) -> String? {
+func diamond(_ diamond_size: Int) -> String? {
     var middle: Int = 0
-    if(size % 2) == 0 || size < 0{
+    if(diamond_size % 2) == 0 || diamond_size < 0{
         return nil
     }
 
     var myArr: [String] = []
     var stars = 0
-    for _ in 0..<size{
+    for _ in 0..<diamond_size{
         var ebene = ""
-        middle = (size / 2 + 1)
+        middle = (diamond_size / 2 + 1)
         for _ in middle..<size-stars/2{
             ebene += " "
         }
@@ -32,7 +32,7 @@ func diamond(_ size: Int) -> String? {
     }
     
     myArr += myArr.reversed()
-    myArr.remove(at: size)
+    myArr.remove(at: diamond_size)
     var return_value: [String] = []
 
     for idx in 0..<myArr.count{
@@ -40,7 +40,7 @@ func diamond(_ size: Int) -> String? {
             return_value += [myArr[idx]]
         }
     }
-    return_value[size-1] += "\n"
+    return_value[diamond_size-1] += "\n"
     return return_value.joined(separator: "\n")
 }
 
