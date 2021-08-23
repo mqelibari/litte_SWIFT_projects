@@ -14,7 +14,6 @@ The Solution to different Katas from codewars. https://www.codewars.com/dashboar
 |[Num Counter](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/one_counter.swift) |Raise the individual digits of a number to the power of itself and find out how often a certain number occurs in the individual results. |
 |[String Reapeter](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/stringRepeater.swift ) |Repeat a string x times |
 |[Word Spinner](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/wordSpinner.swift)|Turn over every word in the sentence that has length greater than or equal to 5 |
-
 |[Squares in Rectangle](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/squareInRectangle.swift)| Find out how many Squares are in a rectangle|
 
 
