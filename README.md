@@ -18,6 +18,7 @@ The Solution to different Katas from codewars. https://www.codewars.com/dashboar
 |[Remove Vowels](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/removeVowels.swift)|Remove all Vowels from a Sentence. ("Y" is not considered a Vowel)|
 |[Enrcytion Algoritm](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/encrypterASCII.swift)|Encrypt the sentence according to this algorithm. Swap the second letter of the word with the last letter of the word. Swap the first letter with its ASCII code value. |
 |[Shifted Difference](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/shiftedDiff.swift)|Move a word to the right until it matches the other word. The last letter is pinned back to the front. Calculate the amount of shifftings.|
+|[Find Outliner](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/findOutliner.swift)| Given an array with either more even or more odd numbers. Depending on which there are more, there is also one of the other kind. Find these.|
 
 
 
