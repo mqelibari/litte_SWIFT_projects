@@ -16,8 +16,7 @@ The Solution to different Katas from codewars. https://www.codewars.com/dashboar
 |[Word Spinner](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/wordSpinner.swift)|Turn over every word in the sentence that has length greater than or equal to 5 |
 |[Squares in Rectangle](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/squareInRectangle.swift)| Find out how many Squares are in a rectangle|
 |[Remove Vowels](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/removeVowels.swift)|Remove all Vowels from a Sentence. ("Y" is not considered a Vowel)|
-|[Enrcytion Algoritm](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/encrypterASCII.swift)|Encrypt the sentence according to this algorithm.
-Swap the second letter with the last letter. Swap the first letter with its ASCII code value. |
+|[Enrcytion Algoritm](https://github.com/mqelibari/litte_SWIFT_projects/blob/main/encrypterASCII.swift)|Encrypt the sentence according to this algorithm. Swap the second letter with the last letter. Swap the first letter with its ASCII code value. |
 
 
 
